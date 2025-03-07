@@ -4,3 +4,5 @@ BeautifulSoup4
 python-docx
 pandas
 lxml
+playwright
+playwright install

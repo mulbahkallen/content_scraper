@@ -5,4 +5,3 @@ python-docx
 pandas
 lxml
 playwright
-playwright install

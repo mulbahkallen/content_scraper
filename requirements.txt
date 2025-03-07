@@ -1,0 +1,6 @@
+Streamlit
+Requests
+BeautifulSoup4
+python-docx
+pandas
+lxml
